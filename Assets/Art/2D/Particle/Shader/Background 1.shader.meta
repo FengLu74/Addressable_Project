@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf028e554496952469c40a532d922dd6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Mid_texture: {fileID: 2800000, guid: 70c887586beeaaf4683cc15cc2715b79, type: 3}
+  - _Mid_texture_smoke: {fileID: 2800000, guid: a7cae8bdd4eee65488de6084e2263d67, type: 3}
+  - _Mid_texture_smoke_2: {fileID: 2800000, guid: 70c887586beeaaf4683cc15cc2715b79, type: 3}
+  - _Main_texture: {fileID: 2800000, guid: 501f77cba7fd8c14ab61f285182909cd, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

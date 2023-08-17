@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: fan_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 8dc122bc015b8174380e6eeb64928288, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 501b0f2ce054a0f40a952d5c2ae45991, type: 3}
+  isUpgradingBlendModeMaterials: 0
+  blendModeMaterials:
+    requiresBlendModeMaterials: 1
+    applyAdditiveMaterial: 1
+    additiveMaterials:
+    - pageName: Fan_2.png
+      material: {fileID: 2100000, guid: 0496faf34edf25644a7aeb7dd45a88cb, type: 2}
+    - pageName: Fan_3.png
+      material: {fileID: 2100000, guid: 3361c9dbe9eb5934b92b83661ef9eb36, type: 2}
+    - pageName: Fan.png
+      material: {fileID: 2100000, guid: 76f638c867724d844bc5ccba2fde7844, type: 2}
+    multiplyMaterials: []
+    screenMaterials: []
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Battle
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 686205356be85924cbe318ec436081ff, type: 3}
+    - {fileID: 21300000, guid: 5add0928cda583f4eb1a23a59fb5b901, type: 3}
+    - {fileID: 21300000, guid: e2fb1146052f0e04c95ad483afeac5ae, type: 3}
+    - {fileID: 21300000, guid: 49d4a4111b699784da1b372667e40655, type: 3}
+    - {fileID: 21300000, guid: cad4fcb6a593e234fbdd71f223dad705, type: 3}
+    - {fileID: 21300000, guid: 9577348d38c1443448d1bea2220fcc70, type: 3}
+    - {fileID: 21300000, guid: 6ad60611ea1b4014baced4e991e3fae3, type: 3}
+    - {fileID: 21300000, guid: f9d391ef7c563aa4e992eb689c282363, type: 3}
+    - {fileID: 21300000, guid: 13e6e89f4d9a6d64cb610d9db6f58c4f, type: 3}
+    - {fileID: 21300000, guid: 41794ce8feb3140449a0750ebbff366c, type: 3}
+    - {fileID: 21300000, guid: 393fcfac68dfde54b85418b88bdbefe3, type: 3}
+    - {fileID: 21300000, guid: f53ca1049cfbe7b428941ce56fb7ae9b, type: 3}
+    - {fileID: 21300000, guid: 0b6bdd46347089444a744a4b67a94bfb, type: 3}
+    - {fileID: 21300000, guid: 9f9abd18cbcc0f349a43c2cdcf1bae3e, type: 3}
+    - {fileID: 21300000, guid: cae7de6870163994fac21639f2fd18c8, type: 3}
+    - {fileID: 21300000, guid: e6cf3b35db8c92345969562646956e67, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 49d4a4111b699784da1b372667e40655, type: 3}
+  - {fileID: 21300000, guid: 6ad60611ea1b4014baced4e991e3fae3, type: 3}
+  - {fileID: 21300000, guid: f53ca1049cfbe7b428941ce56fb7ae9b, type: 3}
+  - {fileID: 21300000, guid: 686205356be85924cbe318ec436081ff, type: 3}
+  - {fileID: 21300000, guid: e6cf3b35db8c92345969562646956e67, type: 3}
+  - {fileID: 21300000, guid: e2fb1146052f0e04c95ad483afeac5ae, type: 3}
+  - {fileID: 21300000, guid: 0b6bdd46347089444a744a4b67a94bfb, type: 3}
+  - {fileID: 21300000, guid: cad4fcb6a593e234fbdd71f223dad705, type: 3}
+  - {fileID: 21300000, guid: 9f9abd18cbcc0f349a43c2cdcf1bae3e, type: 3}
+  - {fileID: 21300000, guid: 5add0928cda583f4eb1a23a59fb5b901, type: 3}
+  - {fileID: 21300000, guid: cae7de6870163994fac21639f2fd18c8, type: 3}
+  - {fileID: 21300000, guid: 41794ce8feb3140449a0750ebbff366c, type: 3}
+  - {fileID: 21300000, guid: 393fcfac68dfde54b85418b88bdbefe3, type: 3}
+  - {fileID: 21300000, guid: 9577348d38c1443448d1bea2220fcc70, type: 3}
+  - {fileID: 21300000, guid: 13e6e89f4d9a6d64cb610d9db6f58c4f, type: 3}
+  - {fileID: 21300000, guid: f9d391ef7c563aa4e992eb689c282363, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ICON_GongJi_S01
+  - icon_JuNei_car02
+  - ICON_XiaoHao_M01
+  - ICON_GongJi_Guang01
+  - UI_JuNei_BG04
+  - ICON_GongJi_M01
+  - UI_AnNiu_001
+  - ICON_GongJi_S02
+  - UI_AnNiu_002
+  - ICON_GongJi_Guang02
+  - UI_JuNei_BG03
+  - Icon_Scene_2
+  - Icon_Scene_3
+  - icon_JuNei_car01
+  - Icon_Scene_1
+  - ICON_JuNei_TouXiang
+  m_RenderDataMap: {}
+  m_Tag: Battle
+  m_IsVariant: 0

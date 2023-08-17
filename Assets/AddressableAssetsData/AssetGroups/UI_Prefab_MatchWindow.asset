@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI_Prefab_MatchWindow
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Prefab_MatchWindow
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ec93dcd36425e544e9b813b5c86ee26e
+  m_SerializeEntries:
+  - m_GUID: a50e0b38b6646454395ec007698566b6
+    m_Address: MatchWindow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7c7031a04f942d04897fd871907f8b99, type: 2}
+    - {fileID: 11400000, guid: eb673be9c2d370a42b1f6b0b334f3643, type: 2}

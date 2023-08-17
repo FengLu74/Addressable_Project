@@ -1,0 +1,6 @@
+CK_BG.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+bg
+bounds:2,2,1422,1895

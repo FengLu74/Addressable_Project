@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI_SpriteAtlas_Shop
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_SpriteAtlas_Shop
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b34903b833007694594eb8eb56cd7424
+  m_SerializeEntries:
+  - m_GUID: cf94468c667ad8d488b29ac5beb5b864
+    m_Address: Shop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 20b8f9c9cb4b8c94eb532bdc59ac010b, type: 2}
+    - {fileID: 11400000, guid: 33c52982b0057c3419462d1ced4076ac, type: 2}

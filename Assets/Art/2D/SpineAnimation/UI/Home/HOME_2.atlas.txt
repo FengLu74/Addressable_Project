@@ -1,0 +1,11 @@
+HOME_2.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+guangdian
+bounds:1009,240,24,24
+offsets:1,1,26,26
+yingzi
+bounds:1009,266,854,236
+zhuozi
+bounds:2,2,1005,500

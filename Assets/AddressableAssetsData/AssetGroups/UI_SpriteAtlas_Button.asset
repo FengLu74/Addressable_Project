@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI_SpriteAtlas_Button
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_SpriteAtlas_Button
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 61e95bb726afcd54c97a7dbb1e8f797d
+  m_SerializeEntries:
+  - m_GUID: 1cc9a5b50fe0e80418c66805924da49b
+    m_Address: Button
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 77ccf5d1baa8e2040ae4810c92a178d9, type: 2}
+    - {fileID: 11400000, guid: 699360dfaf5a5c54db332813538af3c9, type: 2}

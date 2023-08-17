@@ -1,0 +1,8 @@
+Quality_4.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+bg
+bounds:2,2,1270,1801
+bg2
+bounds:1274,1092,514,711

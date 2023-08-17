@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background
+  m_Shader: {fileID: 4800000, guid: 3a93304981f677045ba967e0e21c0cd3, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Depth_texture:
+        m_Texture: {fileID: 2800000, guid: 24e01fde852d8854b9821d93ce9a56a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Flowmap_Noise:
+        m_Texture: {fileID: 2800000, guid: 5f9111b4760c49443b9048a7ef8fbae6, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _Flowmap_texture:
+        m_Texture: {fileID: 2800000, guid: f54b408c77df3e349ac13185acf2fbcd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_texture:
+        m_Texture: {fileID: 2800000, guid: 501f77cba7fd8c14ab61f285182909cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mid_Depth_texture:
+        m_Texture: {fileID: 2800000, guid: 23a80e7263412234d98524bcb0c172eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mid_texture:
+        m_Texture: {fileID: 2800000, guid: 5f9111b4760c49443b9048a7ef8fbae6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mid_texture_smoke:
+        m_Texture: {fileID: 2800000, guid: a7cae8bdd4eee65488de6084e2263d67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mid_texture_smoke_2:
+        m_Texture: {fileID: 2800000, guid: 70c887586beeaaf4683cc15cc2715b79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Particle_Texture:
+        m_Texture: {fileID: 2800000, guid: cf975fd6564ca2d409e3980b3ec63308, type: 3}
+        m_Scale: {x: -0.5, y: -0.5}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 94d3bdf882c39c54c9519d8c30ffec7b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 359d555248f2e8d48a8338775bf873d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texturemask:
+        m_Texture: {fileID: 2800000, guid: a7cae8bdd4eee65488de6084e2263d67, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Down: 1.15
+    - _FLowmap_lerp: 0.02
+    - _FLowmap_mask_power: 8.8
+    - _FLowmask_X: 0
+    - _FLowmask_y: 0
+    - _Float0: 1
+    - _Float1: 0.4
+    - _Float2: 1
+    - _Float3: -0.9
+    - _FlowMap_scale: 15
+    - _Flowmap_mask_power: 0.2
+    - _Flowmap_power: 0.95
+    - _Keyword0: 0
+    - _Left: 0.81
+    - _Light: 2
+    - _Light1: 1
+    - _Mid_noise_scale: 5
+    - _Mid_noise_speed: 0
+    - _Mid_noisepower_1: 0.17
+    - _Mid_texture_NoisePower: 0.25
+    - _Mid_texture_flowType: 0
+    - _Mid_texture_niose: 15
+    - _Particle_Alpha_speed: 3
+    - _Particle_Voronoi_scale: 5
+    - _Particle_mask_power: 4
+    - _Particle_noise_power: 0.5
+    - _Particle_noise_scale: 7
+    - _Particle_noise_scale1: 5
+    - _Particle_noise_speed: 1
+    - _Particle_noise_speed1: 0
+    - _Right: 0.92
+    - _UP: 0.95
+    - _Voronoi_scale: 4
+    - __dirty: 0
+    - _mid_texture_light: 4
+    m_Colors:
+    - _Color0: {r: 47.937256, g: 14.054902, b: 0, a: 0}
+    - _Color1: {r: 0, g: 47.435295, b: 47.937256, a: 0}
+    - _Flowmap_X: {r: -0.35, g: 1, b: 0, a: 0}
+    - _Flowmap_Y: {r: -0.3, g: 1, b: 0, a: 0}
+    - _Flowmap_mask: {r: -0.1, g: 1, b: 0, a: 0}
+    - _Flowmap_smoothstep: {r: 0, g: 1, b: 0, a: 0}
+    - _Flowmap_speed: {r: 0.1, g: -0.2, b: 0, a: 0}
+    - _Flowmap_x: {r: -0.59, g: 1, b: 0, a: 0}
+    - _Mid_NoiseMask: {r: -0.33, g: 2.53, b: 0, a: 0}
+    - _Mid_NoiseMask1: {r: -0.08, g: 2.53, b: 0, a: 0}
+    - _Mid_NoiseMask_1: {r: -0.33, g: 2.53, b: 0, a: 0}
+    - _Mid_NoiseMask_2: {r: -0.08, g: 2.53, b: 0, a: 0}
+    - _Mid_NoiseUV: {r: 1.17, g: 3.14, b: 1, a: 1}
+    - _Mid_NoiseUVOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _Mid_NoiseUVTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _Mid_Noiseflowspeed_1: {r: -0.1, g: 0, b: 0, a: 0}
+    - _Mid_Noiseflowspeed_2: {r: 0, g: -0.2, b: 0, a: 0}
+    - _Mid_Noiseflowspeed_3: {r: -0.5, g: 0, b: 0, a: 0}
+    - _Mid_texture_Noiseflowspped: {r: 0.2, g: -0.5, b: 0, a: 0}
+    - _Mid_texture_Noiseflowspped1: {r: 0.1, g: -0.1, b: 0, a: 0}
+    - _Mid_texture_Noiseflowspped2: {r: -0.5, g: -0.5, b: 0, a: 0}
+    - _Mid_texture_Voronoi: {r: 1, g: 30, b: 0, a: 0}
+    - _Mid_texture_flowspped: {r: 0.01, g: 0, b: 0, a: 0}
+    - _Particle_Alpha_Power: {r: 0, g: 1, b: 0, a: 0}
+    - _Particle_mask_clamp: {r: 0.2, g: 1, b: 0, a: 0}
+    - _Particle_noise_Power: {r: 0.1, g: 0.6, b: 0, a: 0}
+    - _Particle_noise_speed: {r: 0, g: 0, b: 0, a: 0}
+    - _Particle_speed: {r: 0.3, g: 0.5, b: 0, a: 0}
+    - _Vector0: {r: 1.88, g: -0.04, b: 1.47, a: 0.2}
+    - _Vector1: {r: 0, g: 0, b: 0.23, a: 0.17}
+    - _particle_offset: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _particle_tiling: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

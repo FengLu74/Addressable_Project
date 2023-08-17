@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI_SpriteAtlas_Login
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_SpriteAtlas_Login
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 08cf3edbf9c37094d8179cc7a3c27541
+  m_SerializeEntries:
+  - m_GUID: 2f621ed8e85edb748b380c3eee8d49d1
+    m_Address: Login
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4fd8dedc64433324dbe30d0e8833a902, type: 2}
+    - {fileID: 11400000, guid: 0581b934f0d3c4e419cc7f645eeabd60, type: 2}

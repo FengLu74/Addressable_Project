@@ -1,0 +1,520 @@
+{
+"skeleton": {
+	"hash": "o3nI88Frlws",
+	"spine": "4.1.23",
+	"x": -858.65,
+	"y": 738.44,
+	"width": 1758,
+	"height": 1336,
+	"images": "./images/",
+	"audio": "E:/工作/UI/主界面/zhujiemian"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "bone2", "parent": "bone", "y": -150 },
+	{ "name": "bone3", "parent": "bone2", "x": 150 },
+	{ "name": "yunsh11", "parent": "bone3", "x": -472.16, "y": 1732.76 },
+	{ "name": "yunshi1", "parent": "bone3", "x": -361.84, "y": 1856.45 },
+	{ "name": "yunsh12", "parent": "bone3", "x": -259.25, "y": 2031.29 },
+	{ "name": "yunsh10", "parent": "bone3", "x": -146.54, "y": 1681.6 },
+	{ "name": "yunsh2", "parent": "bone3", "x": -52.31, "y": 1924.36 },
+	{ "name": "yunsh7", "parent": "bone3", "x": 54.14, "y": 1588.25 },
+	{ "name": "yunsh4", "parent": "bone3", "x": 146.62, "y": 1780.44 },
+	{ "name": "yunsh5", "parent": "bone3", "x": 359.1, "y": 1708.19 },
+	{ "name": "yunsh6", "parent": "bone3", "x": 155.35, "y": 1489.99 },
+	{ "name": "xingqiu1_1", "parent": "bone2", "x": -370.65, "y": 1256.95 },
+	{ "name": "xingqiu2", "parent": "bone2", "x": 400.16, "y": 2021.81 },
+	{ "name": "xingyun", "parent": "bone2", "length": 236.72, "x": -82.93, "y": 2208.47 },
+	{ "name": "xiaoxingyun1", "parent": "bone2", "x": 353.44, "y": 1619.65 },
+	{ "name": "xiaoxingyun2", "parent": "bone2", "x": -161.55, "y": 1782.14 },
+	{ "name": "xiaoxingyun5", "parent": "bone2", "x": 49, "y": 1977.8 },
+	{ "name": "xiaoxingyun3", "parent": "bone2", "x": 176, "y": 1705.14 },
+	{ "name": "xiaoxingyun4", "parent": "bone2", "x": 286.47, "y": 1901.7 }
+],
+"slots": [
+	{ "name": "xingyun2", "bone": "xingyun", "attachment": "xingyun" },
+	{ "name": "xingqiu1_1", "bone": "xingqiu1_1", "attachment": "xingqiu1_1" },
+	{ "name": "xingqiu2", "bone": "xingqiu2", "attachment": "xingqiu2" },
+	{ "name": "yunshi1", "bone": "yunshi1", "attachment": "yunshi1" },
+	{ "name": "yunsh2", "bone": "yunsh2", "attachment": "yunsh2" },
+	{ "name": "yunsh4", "bone": "yunsh4", "attachment": "yunsh4" },
+	{ "name": "yunsh5", "bone": "yunsh5", "attachment": "yunsh5" },
+	{ "name": "yunsh6", "bone": "yunsh6", "attachment": "yunsh6" },
+	{ "name": "yunsh7", "bone": "yunsh7", "attachment": "yunsh7" },
+	{ "name": "yunsh10", "bone": "yunsh10", "attachment": "yunsh10" },
+	{ "name": "yunsh11", "bone": "yunsh11", "attachment": "yunsh11" },
+	{ "name": "yunsh12", "bone": "yunsh12", "attachment": "yunsh12" },
+	{ "name": "xiaoxingyun1", "bone": "xiaoxingyun1", "attachment": "xiaoxingyun1" },
+	{ "name": "xiaoxingyun2", "bone": "xiaoxingyun2", "attachment": "xiaoxingyun2" },
+	{ "name": "xiaoxingyun3", "bone": "xiaoxingyun3", "attachment": "xiaoxingyun3" },
+	{ "name": "xiaoxingyun4", "bone": "xiaoxingyun4", "attachment": "xiaoxingyun4" },
+	{ "name": "xiaoxingyun5", "bone": "xiaoxingyun5", "attachment": "xiaoxingyun5" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"xiaoxingyun1": {
+				"xiaoxingyun1": { "x": 14.26, "y": 3.75, "width": 144, "height": 186 }
+			},
+			"xiaoxingyun2": {
+				"xiaoxingyun2": { "x": 0.01, "y": 0.58, "width": 175, "height": 165 }
+			},
+			"xiaoxingyun3": {
+				"xiaoxingyun3": { "x": 2.75, "y": 11.43, "width": 161, "height": 164 }
+			},
+			"xiaoxingyun4": {
+				"xiaoxingyun4": { "x": -0.78, "y": -0.96, "width": 177, "height": 178 }
+			},
+			"xiaoxingyun5": {
+				"xiaoxingyun5": { "x": 0.81, "y": -3.9, "width": 170, "height": 155 }
+			},
+			"xingqiu1_1": {
+				"xingqiu1_1": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0.5, 1, 0, 1, 0, 0.5, 0, 0, 0.5, 0, 1, 0, 1, 0.5, 0.5, 0.5 ],
+					"triangles": [ 0, 1, 7, 1, 8, 7, 7, 8, 6, 8, 5, 6, 1, 2, 8, 2, 3, 8, 8, 3, 5, 3, 4, 5 ],
+					"vertices": [ 368, -368.51, 0, -368.51, -368, -368.51, -368, -0.01, -368, 368.49, 0, 368.49, 368, 368.49, 368, -0.01, 0, -0.01 ],
+					"hull": 8,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 0 ],
+					"width": 368,
+					"height": 369
+				}
+			},
+			"xingqiu2": {
+				"xingqiu2": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0.5, 1, 0, 1, 0, 0.5, 0, 0, 0.5, 0, 1, 0, 1, 0.5, 0.5, 0.5 ],
+					"triangles": [ 0, 1, 7, 1, 8, 7, 7, 8, 6, 8, 5, 6, 1, 2, 8, 2, 3, 8, 8, 3, 5, 3, 4, 5 ],
+					"vertices": [ 162, -162, 0, -162, -162, -162, -162, 0, -162, 162, 0, 162, 162, 162, 162, 0, 0, 0 ],
+					"hull": 8,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 0 ],
+					"width": 324,
+					"height": 324
+				}
+			},
+			"xingyun2": {
+				"xingyun": {
+					"type": "mesh",
+					"path": "xingyun1",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 982.28, -1031.03, -775.72, -1031.03, -775.72, 15.97, 982.28, 15.97 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 878,
+					"height": 523
+				}
+			},
+			"yunsh2": {
+				"yunsh2": { "x": 6.17, "y": -4.42, "width": 85, "height": 35 }
+			},
+			"yunsh4": {
+				"yunsh4": {
+					"type": "mesh",
+					"uvs": [ 0.17833, 0.16287, 0, 1, 0.51329, 1, 1, 0.69148, 1, 0.2698, 0.707, 0, 0.44411, 0.79347 ],
+					"triangles": [ 6, 5, 4, 6, 0, 5, 3, 6, 4, 1, 0, 6, 2, 6, 3, 1, 6, 2 ],
+					"vertices": [ -45.05, 39.97, -71.26, -62.99, 4.19, -62.99, 75.74, -25.05, 75.74, 26.82, 32.66, 60.01, -5.98, -37.59 ],
+					"hull": 6,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 0, 10, 12, 2, 12, 10 ],
+					"width": 147,
+					"height": 123
+				}
+			},
+			"yunsh5": {
+				"yunsh5": {
+					"type": "mesh",
+					"uvs": [ 0.29965, 0.063, 0.71166, 0.009, 0.90708, 0.25797, 0.99487, 0.38867, 0.99743, 0.80682, 0.78695, 0.83382, 0.37663, 1, 1.0E-5, 0.30352, 0.33919, 0.51889, 0.77954, 0.4875 ],
+					"triangles": [ 9, 1, 2, 8, 0, 1, 8, 1, 9, 7, 0, 8, 9, 4, 5, 3, 9, 2, 4, 9, 3, 6, 8, 9, 6, 9, 5, 7, 8, 6 ],
+					"vertices": [ -40.2, 25.16, 22.42, 28.67, 52.13, 12.49, 65.47, 3.99, 65.86, -23.19, 33.87, -24.94, -28.5, -35.74, -85.75, 9.53, -34.19, -4.47, 32.74, -2.43 ],
+					"hull": 8,
+					"edges": [ 0, 2, 6, 8, 8, 10, 10, 12, 12, 14, 14, 0, 14, 16, 16, 18, 2, 4, 4, 6, 18, 4 ],
+					"width": 152,
+					"height": 65
+				}
+			},
+			"yunsh6": {
+				"yunsh6": { "x": 7, "y": -2.55, "width": 80, "height": 76 }
+			},
+			"yunsh7": {
+				"yunsh7": { "x": -4.79, "y": 0.19, "width": 34, "height": 42 }
+			},
+			"yunsh10": {
+				"yunsh10": {
+					"type": "mesh",
+					"uvs": [ 0, 0.88882, 0.21634, 0.99999, 0.51993, 0.77448, 0.84448, 0.35285, 1, 0.19713, 0.93462, 0, 0.1368, 0.14805, 0.35716, 0.40087 ],
+					"triangles": [ 5, 7, 6, 3, 5, 4, 3, 7, 5, 2, 7, 3, 0, 6, 7, 1, 0, 7, 2, 1, 7 ],
+					"vertices": [ -43.11, -34.27, -18.23, -43.16, 16.68, -25.12, 54, 8.61, 71.89, 21.07, 64.37, 36.84, -27.38, 24.99, -2.04, 4.77 ],
+					"hull": 7,
+					"edges": [ 0, 2, 8, 10, 10, 12, 0, 12, 14, 2, 2, 4, 4, 6, 6, 8, 14, 6 ],
+					"width": 115,
+					"height": 80
+				}
+			},
+			"yunsh11": {
+				"yunsh11": {
+					"type": "mesh",
+					"uvs": [ 0, 0.46218, 0.31269, 0, 0.45966, 0, 1, 0.22081, 1, 0.83793, 0.61435, 1, 0.22954, 0.84788, 0, 0.63388, 0.24888, 0.49205 ],
+					"triangles": [ 8, 0, 1, 8, 1, 2, 7, 0, 8, 8, 2, 3, 4, 8, 3, 6, 7, 8, 5, 6, 8, 4, 5, 8 ],
+					"vertices": [ -83.49, 1.06, -31.58, 60.69, -7.19, 60.69, 82.51, 32.2, 82.51, -47.41, 18.49, -68.31, -45.39, -48.69, -83.49, -21.08, -42.18, -2.79 ],
+					"hull": 8,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 0, 14, 16, 10, 16, 4, 16, 8 ],
+					"width": 166,
+					"height": 129
+				}
+			},
+			"yunsh12": {
+				"yunsh12": {
+					"type": "mesh",
+					"uvs": [ 0.04378, 0.18613, 0, 0.64615, 0.14686, 0.7232, 0.24492, 1, 0.75428, 1, 1, 0.53059, 1, 0.28021, 0.90409, 0, 0.5173, 0, 0.62999, 0.49553 ],
+					"triangles": [ 9, 8, 7, 9, 7, 6, 9, 6, 5, 9, 2, 0, 9, 0, 8, 1, 0, 2, 3, 2, 9, 4, 9, 5, 3, 9, 4 ],
+					"vertices": [ -114.94, 45.69, -125.4, -32.05, -90.3, -45.07, -66.87, -91.85, 54.87, -91.85, 113.6, -12.52, 113.6, 29.79, 90.68, 77.15, -1.77, 77.15, 25.17, -6.6 ],
+					"hull": 9,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 0, 16 ],
+					"width": 239,
+					"height": 169
+				}
+			},
+			"yunshi1": {
+				"yunshi1": { "x": -5.31, "y": -6.51, "width": 85, "height": 59 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"xiaoxingyun1": {
+				"rgba": [
+					{ "color": "ffffff6b" },
+					{ "time": 8.3333, "color": "ffffffff" },
+					{ "time": 16.6667, "color": "ffffff6b" },
+					{ "time": 25, "color": "ffffffff" },
+					{ "time": 33.3333, "color": "ffffff6b" },
+					{ "time": 41.6667, "color": "ffffffff" },
+					{ "time": 50, "color": "ffffff6b" },
+					{ "time": 58.3333, "color": "ffffffff" },
+					{ "time": 66.6667, "color": "ffffff6b" },
+					{ "time": 75, "color": "ffffffff" },
+					{ "time": 83.3333, "color": "ffffff6b" }
+				]
+			},
+			"xiaoxingyun2": {
+				"rgba": [
+					{ "color": "ffffff9c" },
+					{ "time": 2.7667, "color": "ffffff6b" },
+					{ "time": 11.1, "color": "ffffffff" },
+					{ "time": 19.4333, "color": "ffffff6b" },
+					{ "time": 27.7667, "color": "ffffffff" },
+					{ "time": 36.1, "color": "ffffff6b" },
+					{ "time": 44.4333, "color": "ffffffff" },
+					{ "time": 52.7667, "color": "ffffff6b" },
+					{ "time": 61.1, "color": "ffffffff" },
+					{ "time": 69.4333, "color": "ffffff6b" },
+					{ "time": 77.7667, "color": "ffffffff" },
+					{ "time": 83.3333, "color": "ffffff9c" }
+				]
+			},
+			"xiaoxingyun3": {
+				"rgba": [
+					{ "color": "ffffffe0" },
+					{ "time": 6.6, "color": "ffffff6b" },
+					{ "time": 14.9333, "color": "ffffffff" },
+					{ "time": 23.2667, "color": "ffffff6b" },
+					{ "time": 31.6, "color": "ffffffff" },
+					{ "time": 39.9333, "color": "ffffff6b" },
+					{ "time": 48.2667, "color": "ffffffff" },
+					{ "time": 56.6, "color": "ffffff6b" },
+					{ "time": 64.9333, "color": "ffffffff" },
+					{ "time": 73.2667, "color": "ffffff6b" },
+					{ "time": 81.6, "color": "ffffffff" },
+					{ "time": 83.3333, "color": "ffffffe0" }
+				]
+			},
+			"xiaoxingyun4": {
+				"rgba": [
+					{ "color": "ffffffe3" },
+					{ "time": 1.5667, "color": "ffffffff" },
+					{ "time": 9.9, "color": "ffffff6b" },
+					{ "time": 18.2333, "color": "ffffffff" },
+					{ "time": 26.5667, "color": "ffffff6b" },
+					{ "time": 34.9, "color": "ffffffff" },
+					{ "time": 43.2333, "color": "ffffff6b" },
+					{ "time": 51.5667, "color": "ffffffff" },
+					{ "time": 59.9, "color": "ffffff6b" },
+					{ "time": 68.2333, "color": "ffffffff" },
+					{ "time": 76.5667, "color": "ffffff6b" },
+					{ "time": 83.3333, "color": "ffffffe3" }
+				]
+			},
+			"xiaoxingyun5": {
+				"rgba": [
+					{ "color": "ffffffc5" },
+					{ "time": 3.2667, "color": "ffffffff" },
+					{ "time": 11.6, "color": "ffffff6b" },
+					{ "time": 19.9333, "color": "ffffffff" },
+					{ "time": 28.2667, "color": "ffffff6b" },
+					{ "time": 36.6, "color": "ffffffff" },
+					{ "time": 44.9333, "color": "ffffff6b" },
+					{ "time": 53.2667, "color": "ffffffff" },
+					{ "time": 61.6, "color": "ffffff6b" },
+					{ "time": 69.9333, "color": "ffffffff" },
+					{ "time": 78.2667, "color": "ffffff6b" },
+					{ "time": 83.3333, "color": "ffffffc5" }
+				]
+			},
+			"yunsh2": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 16.6, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 69.9, "color": "ffffff00" }
+				]
+			},
+			"yunsh4": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 19, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 48.5, "color": "ffffff00" }
+				]
+			},
+			"yunsh5": {
+				"rgba": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 29.6, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 70.8333, "color": "ffffffff" }
+				]
+			},
+			"yunsh6": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 42, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 42.1, "color": "ffffff00" }
+				]
+			},
+			"yunsh7": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 5.8333, "color": "ffffffff" }
+				]
+			},
+			"yunsh10": {
+				"rgba": [
+					{ "time": 9.8667, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 22.7333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 53.3, "color": "fffffffe" }
+				]
+			},
+			"yunsh11": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 28.0667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 67.6667, "color": "ffffff00" }
+				]
+			},
+			"yunsh12": {
+				"rgba": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 15.6, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 76.7667, "color": "ffffffff" }
+				]
+			},
+			"yunshi1": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 6.8333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 35.4333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"xingqiu2": {
+				"rotate": [
+					{},
+					{ "time": 83.3333, "value": 360 }
+				]
+			},
+			"yunsh11": {
+				"rotate": [
+					{ "time": 28.0667 },
+					{ "time": 74.7333, "value": 360 }
+				],
+				"translate": [
+					{ "time": 28.0667, "x": 50.05, "y": 353.19 },
+					{ "time": 74.7333, "x": 1331.39, "y": -477.12 }
+				]
+			},
+			"yunsh4": {
+				"rotate": [
+					{ "time": 19 },
+					{ "time": 52.3333, "value": -360 }
+				],
+				"translate": [
+					{ "time": 19, "x": -368.06, "y": 340.8 },
+					{ "time": 52.3333, "x": -1122.37, "y": -1667.65 }
+				]
+			},
+			"yunsh12": {
+				"rotate": [
+					{ "value": 45 },
+					{ "time": 20, "value": 180, "curve": "stepped" },
+					{ "time": 23.3333, "curve": "stepped" },
+					{ "time": 76.7667 },
+					{ "time": 83.3333, "value": 45 }
+				],
+				"translate": [
+					{ "x": 15.9, "y": -127.23 },
+					{ "time": 20, "x": -781.57, "y": -767.94, "curve": "stepped" },
+					{ "time": 23.3333, "x": 281.73, "y": 86.34, "curve": "stepped" },
+					{ "time": 76.7667, "x": 281.73, "y": 86.34 },
+					{ "time": 83.3333, "x": 15.9, "y": -127.23 }
+				]
+			},
+			"yunsh10": {
+				"rotate": [
+					{ "value": 203.4 },
+					{ "time": 9.8667, "value": 270 },
+					{ "time": 22.7333, "curve": "stepped" },
+					{ "time": 53.3 },
+					{ "time": 83.3333, "value": 203.4 }
+				],
+				"translate": [
+					{ "x": 579.51, "y": -973.26 },
+					{ "time": 9.8667, "x": 926.98, "y": -1372.29 },
+					{ "time": 22.7333, "x": -481.66, "y": 245.38, "curve": "stepped" },
+					{ "time": 53.3, "x": -481.66, "y": 245.38 },
+					{ "time": 83.3333, "x": 579.51, "y": -973.26 }
+				]
+			},
+			"yunsh2": {
+				"rotate": [
+					{ "time": 16.6 },
+					{ "time": 76.6, "value": 720 }
+				],
+				"translate": [
+					{ "time": 16.6, "x": 186.3, "y": 145.41 },
+					{ "time": 76.6, "x": -1022.4, "y": -104.51 }
+				]
+			},
+			"yunsh5": {
+				"rotate": [
+					{ "value": 139.12 },
+					{ "time": 35.6667, "value": 420, "curve": "stepped" },
+					{ "time": 65.7667 },
+					{ "time": 83.3333, "value": 139.12 }
+				],
+				"translate": [
+					{ "x": -141.23, "y": -11.79 },
+					{ "time": 35.6667, "x": -1481.34, "y": 368.06, "curve": "stepped" },
+					{ "time": 65.7667, "x": 522.56, "y": -199.94 },
+					{ "time": 83.3333, "x": -141.23, "y": -11.79 }
+				]
+			},
+			"yunsh7": {
+				"translate": [
+					{ "x": 771.42, "y": -749.48 },
+					{ "time": 49.7667, "x": -519.15, "y": 435.06, "curve": "stepped" },
+					{ "time": 83.3333, "x": 771.42, "y": -749.48 }
+				]
+			},
+			"yunsh6": {
+				"translate": [
+					{ "time": 38.9, "x": -1257.66, "y": -932.28 },
+					{ "time": 74.3333, "x": 354.63, "y": 376.57 }
+				]
+			},
+			"yunshi1": {
+				"translate": [
+					{ "x": 1261.32, "y": 541.09 },
+					{ "time": 40, "x": -815.29, "y": -1122.39 }
+				]
+			},
+			"xingqiu1_1": {
+				"rotate": [
+					{},
+					{ "time": 83.3333, "value": -360 }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"yunsh4": {
+					"yunsh4": {
+						"deform": [
+							{ "time": 20 },
+							{
+								"time": 29.6667,
+								"vertices": [ -9.77307, 0.51988, 3.14185, 0.08398, -17.578, 3.58246, -26.88782, 7.31114, -23.92395, -0.61655, 17.53198, -17.30531, 25.91345, -34.57558 ]
+							}
+						]
+					}
+				},
+				"yunsh5": {
+					"yunsh5": {
+						"deform": [
+							{
+								"vertices": [ -0.15094, -1.65637, -0.02679, -0.91175, 0, 0, 0, 0, -0.93015, 3.86007, -0.98293, 1.105, -1.99417, 2.6414, 0, 0, -1.83171, 5.42493, -2.14403, 6.8471 ]
+							},
+							{
+								"time": 20.8667,
+								"vertices": [ -0.71667, -7.8645, -0.1272, -4.32904, 0, 0, 0, 0, -4.41638, 18.32776, -4.66699, 5.24658, -9.46838, 12.54144, 0, 0, -8.69702, 25.75775, -10.17993, 32.51025 ],
+								"curve": "stepped"
+							},
+							{ "time": 74.8333 },
+							{
+								"time": 83.3333,
+								"vertices": [ -0.15094, -1.65637, -0.02679, -0.91175, 0, 0, 0, 0, -0.93015, 3.86007, -0.98293, 1.105, -1.99417, 2.6414, 0, 0, -1.83171, 5.42493, -2.14403, 6.8471 ]
+							}
+						]
+					}
+				},
+				"yunsh10": {
+					"yunsh10": {
+						"deform": [
+							{ "time": 18.6667 },
+							{
+								"time": 22.2667,
+								"vertices": [ 8.58972, -5.52563, -16.29077, 2.53821, 3.24475, -3.17053, 4.50464, 24.70825, -12.43625, 11.2843, -5.05746, -3.57324, 13.93454, -7.88086, -11.30814, 12.52722 ]
+							}
+						]
+					}
+				},
+				"yunsh11": {
+					"yunsh11": {
+						"deform": [
+							{ "time": 28.0667 },
+							{
+								"time": 67.6667,
+								"vertices": [ 46.99139, 22.37122, 7.75952, -3.04883, 0, 0, -23.27026, 0.44861, -11.52509, 8.21655, 0, 0, 28.44659, -5.38074, 40.5426, 4.62012, 92.3584, 19.82776 ]
+							}
+						]
+					}
+				},
+				"yunsh12": {
+					"yunsh12": {
+						"deform": [
+							{
+								"vertices": [ 14.38242, 4.47892, 19.12166, 50.91847, -0.47234, 58.58457, -1.48815, 15.62321, 1.11591, 12.27549, -1.90828, 8.35112, -2.02235, 8.12549, -5.31684, 5.39292, -2.7152, 2.89307, -4.96502, 37.96755 ]
+							},
+							{
+								"time": 15.8667,
+								"offset": 2,
+								"vertices": [ 5.47522, -13.7323, 5.74548, -16.17462, 0, 0, 0, 0, -1.30115, 2.82245, -3.95837, 6.73077, -4.33838, 5.69995, -8.40747, 8.95825, 9.58459, -48.62885 ],
+								"curve": "stepped"
+							},
+							{
+								"time": 76.7667,
+								"vertices": [ 21.2428, 6.61536, 25.63098, 81.75671, -3.43823, 94.24451, -2.198, 23.07544, 1.64819, 18.13086, -2.19788, 10.98828, -1.09888, 8.79077, -5.78357, 5.24646, 0, 0, -11.90515, 79.2738 ]
+							},
+							{
+								"time": 83.3333,
+								"vertices": [ 14.38242, 4.47892, 19.12166, 50.91847, -0.47234, 58.58457, -1.48815, 15.62321, 1.11591, 12.27549, -1.90828, 8.35112, -2.02235, 8.12549, -5.31684, 5.39292, -2.7152, 2.89307, -4.96502, 37.96755 ]
+							}
+						]
+					}
+				}
+			}
+		}
+	}
+}
+}

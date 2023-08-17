@@ -1,0 +1,9 @@
+Quality_3.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+jinguang
+bounds:704,100,191,372
+saoguang
+bounds:2,2,700,470
+offsets:0,15,700,500

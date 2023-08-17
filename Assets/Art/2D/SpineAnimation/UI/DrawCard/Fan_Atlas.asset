@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Fan_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 603d8568e84f59b45a00674f8655b437, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 9b7f449643a0b2941a6814cc644e53c4, type: 2}
+  - {fileID: 2100000, guid: 49cbacbc09ef3934b9e57ae012a94cef, type: 2}
+  - {fileID: 2100000, guid: d5c6c2d0c649e994bbcc55bd6c646cdb, type: 2}

@@ -1,0 +1,10 @@
+denglutu_belt.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+images/2light
+bounds:2,2,611,732
+offsets:94,26,800,800
+rotate:90
+images/SE_DengLuTu_01
+bounds:2,615,1092,1386

@@ -1,0 +1,7 @@
+delutu_jiazai.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+images/2light
+bounds:2,2,611,732
+offsets:94,26,800,800
