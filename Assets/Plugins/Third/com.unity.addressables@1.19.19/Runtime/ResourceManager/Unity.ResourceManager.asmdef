@@ -1,0 +1,11 @@
+{
+    "name": "Unity.ResourceManager",
+	"versionDefines": [
+        {
+            "name": "Unity",
+            "expression": "2021.2.0a19",
+            "define": "ENABLE_ASYNC_ASSETBUNDLE_UWR"
+        }
+    ],
+	"references":[ "GUID:f21404bfad47b77439366228c61cef16" ]
+}

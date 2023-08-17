@@ -1,0 +1,16 @@
+{
+    "name": "Kit",
+    "rootNamespace": "Kit",
+    "references": [
+        "GUID:e71070e81f5c89e4a9266423a13a3ce5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
