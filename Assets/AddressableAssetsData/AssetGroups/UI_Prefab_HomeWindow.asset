@@ -18,9 +18,10 @@ MonoBehaviour:
   m_GUID: 3573a442395352a44be769b608044588
   m_SerializeEntries:
   - m_GUID: 15e067b66e44ad74ab8c4ddb3d63b7c4
-    m_Address: Assets/Art/2D/Objects/UI/HomeWindow/HomeWindow.prefab
+    m_Address: HomeWindow
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - 
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
   m_SchemaSet:

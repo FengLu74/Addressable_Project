@@ -18,9 +18,10 @@ MonoBehaviour:
   m_GUID: b49a748e1442c614d9460cff3154bc01
   m_SerializeEntries:
   - m_GUID: efd04dd2a18b0eb47b1b7bedc803e0bc
-    m_Address: Assets/Art/2D/Objects/UI/LoginWindow/LoginWindow.prefab
+    m_Address: LoginWindow
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - 
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
   m_SchemaSet:

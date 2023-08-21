@@ -13,8 +13,12 @@ public class Launcher : MonoBehaviour
     IEnumerator ShowUI()
     {
         Debug.Log("Start!");
+        
         yield return new WaitForSeconds(1f);
-
+        UIManager.Instance.OpenUI("LoginWindow", (go) =>
+        {
+            Debug.Log("Load over LoginWindow !");
+        });
 
     }
     // Update is called once per frame
