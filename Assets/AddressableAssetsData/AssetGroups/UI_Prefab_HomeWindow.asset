@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
   m_Name: UI_Prefab_HomeWindow
   m_EditorClassIdentifier: 
   m_GroupName: UI_Prefab_HomeWindow
   m_Data:
     m_SerializedData: []
-  m_GUID: 3573a442395352a44be769b608044588
+  m_GUID: 0f12af87005993d4ca42eaed44761c71
   m_SerializeEntries:
   - m_GUID: 15e067b66e44ad74ab8c4ddb3d63b7c4
     m_Address: HomeWindow

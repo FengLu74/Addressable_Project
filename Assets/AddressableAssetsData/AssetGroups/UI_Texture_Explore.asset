@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Texture_Explore
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Texture_Explore
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 693d1f178e5a4d84fb167eeedd99efe8
+  m_SerializeEntries:
+  - m_GUID: 3aa6daa52611d7441ba7154a1938d01d
+    m_Address: aircraft
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 0fb51287f29748642b771d137311855b
+    m_Address: UI_ExploringScene_BG01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: b57098d5d7ad881429d0f7cb77e9d793
+    m_Address: UI_Exploring_Slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: d25767b1efac1b945913f835013dfceb
+    m_Address: UI_Exploring_Slot02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d9ccd3ad3ab66a94b88ff7c0389fea27, type: 2}
+    - {fileID: 11400000, guid: 5fb21f0f2db51894bbc048bff3f90365, type: 2}

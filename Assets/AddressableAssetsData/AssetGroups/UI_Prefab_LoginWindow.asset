@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
   m_Name: UI_Prefab_LoginWindow
   m_EditorClassIdentifier: 
   m_GroupName: UI_Prefab_LoginWindow
   m_Data:
     m_SerializedData: []
-  m_GUID: b49a748e1442c614d9460cff3154bc01
+  m_GUID: 42e025b6929d967429193c7a2f8348b7
   m_SerializeEntries:
   - m_GUID: efd04dd2a18b0eb47b1b7bedc803e0bc
     m_Address: LoginWindow

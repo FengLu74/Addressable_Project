@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Texture_Fight
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Texture_Fight
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e941699ff3b2e7a40b902966e72bd770
+  m_SerializeEntries:
+  - m_GUID: 37fe10c2be2a56344aafec6cf3939ea9
+    m_Address: background
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 990ef6de1f4a05c47bd5b1757d277256
+    m_Address: UI_Defeat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: dfc1c6a27b708784ba5da8b7f883e0d8
+    m_Address: UI_Drawn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 2560d565dba16c94cb085eccc11911c9
+    m_Address: UI_JuNei_BG01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: cc42a111daa5c75419b5a9b3c136fc26
+    m_Address: UI_JuNei_BG011
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: d148adabf7b622e42a52a129d4ee4a65
+    m_Address: UI_JuNei_BG02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 2be53288cfee4aa4985201ae6c93ab0c
+    m_Address: UI_JuNei_BG05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: ff14d749f4a66a24fa7826c13633aeef
+    m_Address: UI_Victory
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 05e1178ee11e26b4884f0c07011c7fb4, type: 2}
+    - {fileID: 11400000, guid: 0edd350659fa4cf46be132a815e441ad, type: 2}

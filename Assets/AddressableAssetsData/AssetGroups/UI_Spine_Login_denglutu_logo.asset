@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Spine_Login_denglutu_logo
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Spine_Login_denglutu_logo
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 29a9c7c937cba9e43a0b2d8902d3398c
+  m_SerializeEntries:
+  - m_GUID: b382f9fa7bfc6f446b52ca2fd0876b1b
+    m_Address: denglutu_logo.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: e977da02ea905aa4685e2355093ab4d4
+    m_Address: denglutu_logo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: f42d46e8b687d6e419e693c4ded720f6
+    m_Address: denglutu_logo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 07aa3a883687ebf488fe7d47dab88856
+    m_Address: denglutu_logo_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 094d3c32552d34b4d834fa7acaf050a1
+    m_Address: denglutu_logo_Material-Screen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 6a2e2d627bf419c41be39fd9ef3c2dd7
+    m_Address: denglutu_logo_Material
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 0b94b6fa62dd8b342a591f79913df4bb
+    m_Address: denglutu_logo_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 470564fb037cef649b6e5169792acafc, type: 2}
+    - {fileID: 11400000, guid: 241fa9364cb18cb4d920ca738dbd3fd0, type: 2}

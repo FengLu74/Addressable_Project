@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Texture_CardBg
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Texture_CardBg
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cf2c86de14632a047aebc88a79c5e29c
+  m_SerializeEntries:
+  - m_GUID: bc338307e1eac2a418bcc1192ba4fde2
+    m_Address: Card_Bg_1_011
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 919ed0965cc77fe4b96c98ce6e6fd73f
+    m_Address: Card_Bg_1_021
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: e53ae17503656164a9b59d62de09626a
+    m_Address: Card_Bg_1_031
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 64a5f365aca30ea43ad2e864157df2cc
+    m_Address: Card_Bg_1_041
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 254615e0c64bcea41b3371baa318d670
+    m_Address: Card_Bg_1_051
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: ab76ba37c6e844d4fb0f8b205f891c54
+    m_Address: Card_Bg_1_061
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: d8b9eabfae2797c4f893777a0e66c089
+    m_Address: Card_Bg_1_071
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 7ef23dc104381504385c5e56dbb2e696
+    m_Address: Card_Bg_1_081
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 11a0c37b015242c4fb9fe71e65c399b2
+    m_Address: Card_Bg_1_091
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1244aa70af8cee6438e2986bce3dbcb6, type: 2}
+    - {fileID: 11400000, guid: 14e5bf95768ca3f4781599f545516577, type: 2}

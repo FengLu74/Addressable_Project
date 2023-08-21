@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
   m_Name: UI_SpriteAtlas_Login
   m_EditorClassIdentifier: 
   m_GroupName: UI_SpriteAtlas_Login
   m_Data:
     m_SerializedData: []
-  m_GUID: 08cf3edbf9c37094d8179cc7a3c27541
+  m_GUID: 3e3809344f10de74d9715a17976b8f67
   m_SerializeEntries:
   - m_GUID: 2f621ed8e85edb748b380c3eee8d49d1
     m_Address: Login

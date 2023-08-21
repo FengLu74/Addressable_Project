@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Spine_Home
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Spine_Home
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 263803b99d1b2ad4890a64f55f56032a
+  m_SerializeEntries:
+  - m_GUID: 1bb5f65c76c39b344876add2a88ef4c2
+    m_Address: home
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: d7803563d33ef1f4bba103e221bcbc31
+    m_Address: home1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 06b0d69cebe67c44283400d8b9fed7d1
+    m_Address: home1_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 56a8023cd0a24d04b827e869601e9cd8
+    m_Address: HOME_1.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: bc9cc55eb0aa2184285cf139309afa3a
+    m_Address: HOME_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: cafccc41be0a7ae45a3ab91daf48e295
+    m_Address: HOME_1_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: dc7fa1f589d53ae48bded467f431eef2
+    m_Address: HOME_1_Material
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: d350814a5ed99a94daba55583d03c6ed
+    m_Address: HOME_2.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 4025ab95d5541944597f30cde37b4350
+    m_Address: HOME_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: d9e46d35011b2e34b822f2f8bbea39bf
+    m_Address: HOME_2_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 355f2c75988fbdc429d240bc435077de
+    m_Address: HOME_2_Material-Additive
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 5ecbb311a4116f042bc020541eefca42
+    m_Address: HOME_2_Material
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: a24a65d680854314d8673b028b582626
+    m_Address: home_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 71da19ce4eb78d149a975caa59dd41c5, type: 2}
+    - {fileID: 11400000, guid: 171cd6ae5a8996643b2d0e5adcdb568d, type: 2}

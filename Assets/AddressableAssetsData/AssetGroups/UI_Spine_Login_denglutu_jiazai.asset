@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Spine_Login_denglutu_jiazai
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Spine_Login_denglutu_jiazai
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bb3798b4e4e030a4c8c3a22c3d9fb835
+  m_SerializeEntries:
+  - m_GUID: 2bcf169174c4ccb4581505241a943331
+    m_Address: delutu_jiazai.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 8e45c8b17422b0147adb1574fa1cf358
+    m_Address: delutu_jiazai
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: ea43d1c81fb33f148b4ded48a8139044
+    m_Address: delutu_jiazai
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 3a03f5dd45bd3f34684927a5620f33bb
+    m_Address: delutu_jiazai_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 9c0ec0a1b68654345ad1081213ead3d2
+    m_Address: delutu_jiazai_Material
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 6b859fbfd644cc04d89e37d8f4a3b9fd
+    m_Address: delutu_jiazai_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e4c3b35db86ce6c46b13d48f0869250e, type: 2}
+    - {fileID: 11400000, guid: 3b38a99f6194c604b9391832c1ba33a6, type: 2}

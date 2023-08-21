@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Spine_CardQuality_Quality_3
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Spine_CardQuality_Quality_3
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6517a1e5b7cabb145a1ba48557a30cd9
+  m_SerializeEntries:
+  - m_GUID: 889bf25d51a4ada45b7447038e5cf59f
+    m_Address: Quality_3.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: f94a7d0db09d8ee4582a2fc64c259af6
+    m_Address: Quality_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: aa928c4812ef3cd4b9ccbab7062a52bc
+    m_Address: Quality_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 0df73c3b7bdf1334d96a4208fcad0129
+    m_Address: Quality_3_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 521b1e7de2bc74c40818550dd12e36d6
+    m_Address: Quality_3_Material-Additive
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 28449ff6d89ebc347928af5581bbca8e
+    m_Address: Quality_3_Material
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 33854d626b7d6224d90ddafdce60c06c
+    m_Address: Quality_3_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7028af53dbb8a604e8586288717775ef, type: 2}
+    - {fileID: 11400000, guid: a9c2f1f7868f2ae46b3e7f8859a6e626, type: 2}

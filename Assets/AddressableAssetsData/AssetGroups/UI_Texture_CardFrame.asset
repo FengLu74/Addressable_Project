@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Texture_CardFrame
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Texture_CardFrame
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6fb2195531625094b956fbb04afb490b
+  m_SerializeEntries:
+  - m_GUID: 83692175ee4045045b38eb6e37afb519
+    m_Address: Card_Back_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: e7273876a79d4a1408abac713874041e
+    m_Address: Card_Frame_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 80bef6d1d53d6e64892ca01742271966
+    m_Address: Card_Frame_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 21d4502c644c38a4d8b02d70168ceb6d
+    m_Address: Card_Frame_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 471b5ccdf379a954a9ead77524486dcc
+    m_Address: Card_Frame_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 85f83799da8d44a45b25e410cdf66044
+    m_Address: Matte_card
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dd046cb1b035c004f80b59371e2e9e94, type: 2}
+    - {fileID: 11400000, guid: 0a0e8dedd0805f043b99f7a8813b5aa1, type: 2}

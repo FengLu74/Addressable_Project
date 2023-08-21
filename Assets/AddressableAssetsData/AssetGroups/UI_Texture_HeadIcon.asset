@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Texture_HeadIcon
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Texture_HeadIcon
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 88cf79dcd93dc1f4eb4194e2e7c49f55
+  m_SerializeEntries:
+  - m_GUID: 0e13abfa4d3913b419d51a34a035e530
+    m_Address: icon_AvatarFrame001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fd45b9cb6613e9149b0c6c9e5252045e, type: 2}
+    - {fileID: 11400000, guid: a55e9c50f6d9c1e4c864311108098048, type: 2}

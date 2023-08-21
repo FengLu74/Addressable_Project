@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
   m_Name: UI_SpriteAtlas_Main
   m_EditorClassIdentifier: 
   m_GroupName: UI_SpriteAtlas_Main
   m_Data:
     m_SerializedData: []
-  m_GUID: 0697a5135df965948afdff71f6f27b57
+  m_GUID: 75c129f4cd6666948ba15bebd7c8fc28
   m_SerializeEntries:
   - m_GUID: 523ed02f82908a7438e6a82e086add42
     m_Address: Main

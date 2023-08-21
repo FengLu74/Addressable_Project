@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5d17a21594effb4e9591490b009e7aa, type: 3}
+  m_Script: {fileID: 11500000, guid: d4476d6a02b84104dbc54a970617b152, type: 3}
   m_Name: UI_SpriteAtlas_Explore_BundledAssetGroupSchema
   m_EditorClassIdentifier: 
   m_Group: {fileID: 11400000, guid: f6565bb64b8e3fe479322aa077b2fe3b, type: 2}
@@ -34,9 +34,9 @@ MonoBehaviour:
   m_RedirectLimit: -1
   m_RetryCount: 0
   m_BuildPath:
-    m_Id: aa2d437448f58964cb7d6def2e36456b
+    m_Id: a1763a48fe6a56b4fa043ec9667244f3
   m_LoadPath:
-    m_Id: dbbf11c23f74016438bb74f04c7773bd
+    m_Id: 0395cc976300c424ebccaecdc1e34e5b
   m_BundleMode: 0
   m_AssetBundleProviderType:
     m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null

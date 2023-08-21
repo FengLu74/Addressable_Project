@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Spine_Login_denglutu_belt
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Spine_Login_denglutu_belt
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a2283384fe9f4074fbfa31b1245712e5
+  m_SerializeEntries:
+  - m_GUID: 695cdbcfae688ff478409cbec8547be6
+    m_Address: denglutu_belt.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 723abef695f6a76488eaecd49618f50a
+    m_Address: denglutu_belt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 2060507059de90d489d921f4bfc02b84
+    m_Address: denglutu_belt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 057423010c13c0f4891bdf0e2117f71d
+    m_Address: denglutu_belt_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 3f8045f1bc515a848b19f1b0b72cde03
+    m_Address: denglutu_belt_Material
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  - m_GUID: 1108dd7885c4f684cad7b12c70a98cd5
+    m_Address: denglutu_belt_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bd5dd421c4d56a143affacd3058b09ab, type: 2}
+    - {fileID: 11400000, guid: 11c158efa49860e41bd1df12ecfc98fc, type: 2}

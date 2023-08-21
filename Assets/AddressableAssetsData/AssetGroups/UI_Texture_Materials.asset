@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Texture_Materials
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Texture_Materials
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d6609ce276fb3f649aff887a227d9a60
+  m_SerializeEntries:
+  - m_GUID: dbf5782a0ef33604180d28d8afea826a
+    m_Address: UI_JuNei_BG01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: fa071d64057f53948961f65f9b6ee512
+    m_Address: UI_JuNei_BG02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4934323a4ed871f4d83ad449abf8570c, type: 2}
+    - {fileID: 11400000, guid: 368996ce9b903984fb90c049bf963fbb, type: 2}

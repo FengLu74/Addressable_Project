@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e09be3d864c4db09640a2a35f9dfabb, type: 3}
+  m_Name: UI_Texture_Card
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_Texture_Card
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c8d279bd9c68014488f2eaf89b3cb510
+  m_SerializeEntries:
+  - m_GUID: fdcca05af0698844ba2234bfffc68eb4
+    m_Address: CardIcon_110010000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: f4213dea750a0834f8c037805f1988c4
+    m_Address: CardIcon_110020000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 42cf245fff514c848b1cd933b1c85975
+    m_Address: CardIcon_110030000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: b2dc974a5d00f8c439ad04ea97285447
+    m_Address: CardIcon_110040000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 6356d81665a076048b869f1edb5804be
+    m_Address: CardIcon_110050000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 1d2e3cb43e362f745869b8b58d08a4fa
+    m_Address: CardIcon_110060000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: cfddbbc162a67354a9f4732848c81f8b
+    m_Address: CardIcon_110070000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 869605409f6ce6649af800cdee09d93d
+    m_Address: CardIcon_110080000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: a614d46837e93a2498b9d7a682c0763e
+    m_Address: CardIcon_110090000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 47c5e712f4ce2774a94d1c5eb97c6c15
+    m_Address: CardIcon_110100000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: e34b13397f1c880428564d1c0b17f6c8
+    m_Address: CardIcon_110110000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 1a595faab6db01e40b111c13e11740cb
+    m_Address: CardIcon_110120000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 9dd6ebb52c5aea546979c12e3972b730
+    m_Address: CardIcon_110130000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 04b36b9da3788844cb099fb10121ccff
+    m_Address: CardIcon_110140000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: b3ef38e72f59dc54895b397eaa161ffb
+    m_Address: CardIcon_110150000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: e9c2d4813d8d2834a9e2c9758aa7111d
+    m_Address: CardIcon_110160000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 902681e385080fa4eb2f19f05ba55cf5
+    m_Address: CardIcon_110170000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: e1fdd07db37fb1c4083a74a04a0e0766
+    m_Address: CardIcon_110180000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: cba0fd1def7bc2049aec0b8892a225ee
+    m_Address: CardIcon_110190000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 7ab578315399cdb4bbbb368d17364c8c
+    m_Address: CardIcon_110200000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: e8ab65f5aaf38c746a482d4399ea5dba
+    m_Address: CardIcon_110210000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 1808c43108f07ed4cbc2635b0b71a482
+    m_Address: CardIcon_110220000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 266036931c67b4d4c8d285802be0d993
+    m_Address: CardIcon_110230000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 2687bbdbd923c764797fe581b2512be8
+    m_Address: CardIcon_110240000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 06a97aa01e4001647a0a3f3d50ba7230
+    m_Address: CardIcon_110250000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 57a24c8760f7ae949b1e39ab2d411a52
+    m_Address: CardIcon_110260000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 5d062d164e0f8ab43a95423a72232fbb
+    m_Address: CardIcon_110270000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: fa742fc26e4fc124eb332766c2b3f2e9
+    m_Address: CardIcon_110280000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: aa1f7c558a21fb74e85fc6a5e0216ac2
+    m_Address: CardIcon_110290000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 35d3e77f63d11d94f95687868f518408
+    m_Address: CardIcon_110300000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: dd37bff5e6e22d143be083f2b53025ba
+    m_Address: CardIcon_110310000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 655368e68979557409280d05b4de44c0
+    m_Address: CardIcon_110320000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 20b4cd97d037eb0419b8ccff1a2de3b4
+    m_Address: CardIcon_110330000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 8e15fb3a4b47bc14ca62c654491441e1
+    m_Address: CardIcon_110340000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 7e5703cbec828f64983c9b253d24c1c3
+    m_Address: CardIcon_119010000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 16c487072a6fd1d4c99836f961cd6539
+    m_Address: CardIcon_140010000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: d3242db918c66584896cc2be82bf8adb
+    m_Address: CardIcon_140020000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: ded0a1f71fe21b74998b7386ea95c7d9
+    m_Address: CardIcon_140030000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 2a7353c6175ed65478c2102513ec7a59
+    m_Address: CardIcon_140040000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 4bc6ac81d63243943a9112c76a8a3e2f
+    m_Address: CardIcon_140050000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 95f5f9cf0b05d8143a55de6e070697d9
+    m_Address: CardIcon_150020000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: c70e30b88f1d960478d123db2663bcb0
+    m_Address: CardIcon_150030000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 69559e8516621ee438ae6c54ca485568
+    m_Address: CardIcon_150040000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 370af63ee8f651548b19d78e21ee58ea
+    m_Address: CardIcon_150050000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 9a1870a9a3425d2429f1fa1387dda0cb
+    m_Address: CardIcon_159010000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: fe81743310f1e0d44a2099fe8f729d56
+    m_Address: CardIcon_160010000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 0014b5fbf7a4e4144aea7d97c74ec29e
+    m_Address: CardIcon_160020000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 14741ca1a08354143b811dbd59fbe9b0
+    m_Address: CardIcon_160040000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 64a43054145b8ec40a8e9bf367767cef
+    m_Address: CardIcon_160050000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: adcd50d09bc95474b9d30bbcf5090364
+    m_Address: CardIcon_160060000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 2f012365bec8eb44ea6edfa881ef93c0
+    m_Address: CardIcon_160070000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 9c75e167c5d871d49bd9ebc5551e42da
+    m_Address: CardIcon_170020000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 7fbcba2f39361da4fbbd91731d92893d
+    m_Address: CardIcon_170040000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 51c86f00f274b6f4e9d508d1dcce83c2
+    m_Address: CardIcon_170060000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 8ce4cd05facb80a4c955a1b2bcf66597
+    m_Address: CardIcon_170070000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 19f4adc64ea2d3144bbe9db50d33ae65
+    m_Address: CardIcon_60080000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b638f654c6b3ccb41993bcef35eb50db, type: 2}
+    - {fileID: 11400000, guid: fbd9a1170c430e9478cf68d46dfe50c3, type: 2}
