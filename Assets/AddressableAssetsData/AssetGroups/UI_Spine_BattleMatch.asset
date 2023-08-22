@@ -20,13 +20,11 @@ MonoBehaviour:
   - m_GUID: 2473a39593c210443be3af46781f58a5
     m_Address: battle_matching.atlas
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: be514b6b4890012449bbd3c0690f2c8e
     m_Address: battle_matching
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: 824581de75c0d034b96fc208baa2b09b
     m_Address: battle_matching
     m_ReadOnly: 0
@@ -35,28 +33,23 @@ MonoBehaviour:
   - m_GUID: 6299e94c06f191d45a77c36d0892bb7a
     m_Address: battle_matching_Atlas
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: edcbb391e1f574b4c87383ecf6276baf
     m_Address: battle_matching_Material-Additive
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: cf47f99c229785248bd1330c40f99802
     m_Address: battle_matching_Material-Screen
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: eb89d0191e031df4d9a92c81bd05b96f
     m_Address: battle_matching_Material
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: 25cd810cce96a0246b291badc4af71ee
     m_Address: battle_matching_SkeletonData
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
   m_SchemaSet:

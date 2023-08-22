@@ -20,13 +20,11 @@ MonoBehaviour:
   - m_GUID: 1caa196b3dab57740a767ce88685da8c
     m_Address: 110230000.atlas
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: dfa0243addceea049a6bbdd8ccaafabf
     m_Address: 110230000
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: b77c6c2af3f33684ca7b6e1817e08c1d
     m_Address: 110230000
     m_ReadOnly: 0
@@ -35,18 +33,15 @@ MonoBehaviour:
   - m_GUID: e8f44db052ddc63409010661deffe356
     m_Address: 110230000_Atlas
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: 6b50265beaf3a8f45b87559b0d1c4f8e
     m_Address: 110230000_Material
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   - m_GUID: 3a15767a6fd4d1941b10503d8c371ce7
     m_Address: 110230000_SkeletonData
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - 
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7c2cf5ba078d32f479724ec3a545ad47, type: 2}
   m_SchemaSet:

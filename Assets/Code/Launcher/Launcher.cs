@@ -13,11 +13,12 @@ public class Launcher : MonoBehaviour
     IEnumerator ShowUI()
     {
         Debug.Log("Start!");
+        yield return HotUpdateManager.Instance.Launch();
+        //yield return new WaitForSeconds(1f);
         
-        yield return new WaitForSeconds(1f);
-        UIManager.Instance.OpenUI("LoginWindow", (go) =>
+        UIManager.Instance.OpenUI("HomeWindow", (go) =>
         {
-            Debug.Log("Load over LoginWindow !");
+            Debug.Log("Load over HomeWindow !");
         });
 
     }
